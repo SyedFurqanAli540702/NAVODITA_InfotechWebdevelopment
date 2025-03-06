@@ -1,0 +1,14 @@
+This project is licensed under the MIT License.
+
+---
+
+### Upload Instructions
+1. Create a new repository on GitHub.
+2. Push the project files:
+```bash
+git init
+git add .
+git commit -m "Initial commit for Web Development Projects"
+git branch -M main
+git remote add origin https://github.com/YourUsername/WebDevelopmentProjects.git
+git push -u origin main
