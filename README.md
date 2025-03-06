@@ -1,4 +1,4 @@
-# Web Development Projects by ## [Syed Furqan Ali](https://github.com/SyedFurqanAli540702)
+# Web Development Projects by [Syed Furqan Ali](https://github.com/SyedFurqanAli540702)
 
 ## 📌 Overview
 This repository contains various web development projects completed during my internship at **Navodita Infotech**. The projects range from static websites to dynamic applications using **Node.js** and **MongoDB**.
